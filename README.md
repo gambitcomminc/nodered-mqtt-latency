@@ -1,6 +1,6 @@
 # nodered-mqtt-latency
 
-NODE-RED flow to measure end-to-end latency to/from a broker.
+NODE-RED flow to measure and chart end-to-end latency to/from a MQTT broker.
 
 Each broker section is a publisher and subscriber pair to measure the end-to-end
 latency.
