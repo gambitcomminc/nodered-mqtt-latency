@@ -8,3 +8,5 @@ latency.
 The local broker is there just to verify stability and compare to intranet.
 
 Just import the .json into your copy of NODE-RED with dashboard installed.
+
+For details see https://gambitcomm.blogspot.com/2018/08/video-monitor-end-to-end-latency-of.html
